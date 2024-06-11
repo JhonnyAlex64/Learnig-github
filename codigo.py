@@ -1,4 +1,4 @@
-nombre = hola pepita
-apellido = juanita
+nombre = jhonny alexander
+apellido = ortiz
 
 print( nombre + apellido)
