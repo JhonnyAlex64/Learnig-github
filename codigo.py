@@ -1,6 +1,4 @@
 nombre = jhonny alexander
-apellido = ortiz
-nombre = que tal
-apellido = juanita
+apellido = ortiz gallegos
 
 print( nombre + apellido)
